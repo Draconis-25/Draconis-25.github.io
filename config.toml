@@ -20,14 +20,14 @@ sectionPagesMenu = "main"
 [params]
 
 [params.theme]
-palette = "gruvbox-dark"
+palette = "solarized-dark"
 mode = "dark-mode"
 
 # Sidebar: about/bio
 [params.about]
-title = "risotto"
+title = "Yusuf Yavuzyigit"
 description = "A [hugo](https://gohugo.io) theme inspired by terminal ricing."
-logo = "images/rice.svg"
+#logo = "images/rice.svg"
 
 # Sidebar: social links
 # Available icon sets:
@@ -37,12 +37,12 @@ logo = "images/rice.svg"
 [[params.socialLinks]]
 icon = "fab fa-github"
 title = "GitHub"
-url = "https://github.com/joeroe/risotto"
+url = "https://github.com/Draconis-25"
 
 [[params.socialLinks]]
 icon = "fas fa-envelope"
 title = "Email"
-url = "mailto:example@example.com"
+url = "mailto:yusufyavuzyigit25@gmail.com"
 
 [[params.socialLinks]]
 icon = "ai ai-orcid"
