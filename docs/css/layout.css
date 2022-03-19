@@ -49,6 +49,7 @@
 .page__aside {
     grid-area: aside;
     color: var(--bright-bg);
+	text-align: center;
 }
 
 /* Footer */
