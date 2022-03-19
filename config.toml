@@ -26,7 +26,7 @@ mode = "dark-mode"
 # Sidebar: about/bio
 [params.about]
 title = "Yusuf Yavuzyigit"
-description = "A [hugo](https://gohugo.io) theme inspired by terminal ricing."
+description = "Creator of the ArchuraProject and everything inside it, </br> at least for now."
 #logo = "images/rice.svg"
 
 # Sidebar: social links
@@ -43,11 +43,6 @@ url = "https://github.com/Draconis-25"
 icon = "fas fa-envelope"
 title = "Email"
 url = "mailto:yusufyavuzyigit25@gmail.com"
-
-[[params.socialLinks]]
-icon = "ai ai-orcid"
-title = "ORCID"
-url = "https://orcid.org/0000-0001-2345-6789"
 
 [menu]
 
