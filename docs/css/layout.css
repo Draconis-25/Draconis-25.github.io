@@ -1,8 +1,8 @@
 /* 1rem = 16px by default */
 
 .page {
-    max-width: 64rem;
-    margin: 1rem auto;
+    /* max-width: 64rem; */
+    margin: 1rem;
     display: grid;
     grid-template-areas: 
       "header" 
@@ -54,4 +54,5 @@
 /* Footer */
 .page__footer {
     grid-area: footer;
+	text-align: center;
 }
