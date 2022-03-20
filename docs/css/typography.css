@@ -52,7 +52,7 @@ h3:before,
 h4:before, 
 h5:before, 
 h6:before {
-    color: var(--bright-bg);
+    color: var(--red);
 }
 
 h1:first-child {
