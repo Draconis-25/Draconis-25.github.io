@@ -11,7 +11,6 @@ tags = [
 ]
 +++
 
-This page shows my other posts.
 <!--more-->
 This is my first post here. Let's start with hello world:
 
