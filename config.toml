@@ -1,10 +1,7 @@
 baseURL = 'https://draconis-25.github.io/'
 languageCode = 'en-us'
-title = 'Yusuf Yavuzyigit'
-
 theme = 'risotto'
 publishDir = 'docs'
-
 author = "Yusuf Yavuzyigit"
 copyright = "© 2021 Yusuf Yavuzyigit"
 paginate = 3
@@ -13,9 +10,19 @@ enableInlineShortcodes = true
 # prevent build failures when using Hugo's Instagram shortcode due to deprecated Instagram API.
 # See https://github.com/gohugoio/hugo/issues/7228#issuecomment-714490456
 ignoreErrors = ["error-remote-getjson"]
-
+defaultContentLanguageInSubdir = true
 # Automatically add content sections to main menu
 sectionPagesMenu = "main"
+
+[languages]
+  [languages.en]
+    title = "Yusuf Yavuzyigit"
+    languageName = "English"
+    weight = 1
+  [languages.tr]
+    title = "Yusuf Yavuzyigit"
+    languageName = "Türkçe"
+    weight = 2
 
 [params]
 
@@ -24,9 +31,14 @@ palette = "solarized-dark"
 mode = "dark-mode"
 
 # Sidebar: about/bio
-[params.about]
+[languages.en.params.about]
 title = "Yusuf Yavuzyigit"
 description = "Creator of the ArchuraProject and everything inside it, </br> at least for now."
+#logo = "images/rice.svg"
+
+[languages.tr.params.about]
+title = "Yusuf Yavuzyigit"
+description = "ArchuraProject ve içerisindeki herşeyin üreticisi, </br> en azından şimdilik."
 #logo = "images/rice.svg"
 
 # Sidebar: social links
