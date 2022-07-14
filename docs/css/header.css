@@ -2,7 +2,7 @@
 .main-nav ul {
     display: flex;
     flex-flow: row wrap;
-    justify-content: flex-start;
+    justify-content: center;
     margin: 0;
     padding: 0.25rem 0;
 }
@@ -15,4 +15,3 @@
 .main-nav li::marker {
     content: "./";
 }
-

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>index on Yusuf Yavuzyigit</title>
+    <link>https://draconis-25.github.io/tr/tags/index/</link>
+    <description>Recent content in index on Yusuf Yavuzyigit</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© 2021 Yusuf Yavuzyigit</copyright>
+    <lastBuildDate>Sat, 05 Mar 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://draconis-25.github.io/tr/tags/index/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Yazılar</title>
+      <link>https://draconis-25.github.io/tr/post/</link>
+      <pubDate>Sun, 20 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://draconis-25.github.io/tr/post/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ötekiler</title>
+      <link>https://draconis-25.github.io/tr/post/others/</link>
+      <pubDate>Sat, 05 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://draconis-25.github.io/tr/post/others/</guid>
+      <description>&lt;p&gt;Bu sayfa öteki postlarımı gösterir.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Öğreticiler</title>
+      <link>https://draconis-25.github.io/tr/tutorial/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://draconis-25.github.io/tr/tutorial/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Projeler</title>
+      <link>https://draconis-25.github.io/tr/project/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://draconis-25.github.io/tr/project/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
